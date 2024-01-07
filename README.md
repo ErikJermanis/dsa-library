@@ -6,10 +6,16 @@ A collection of as many data structures and algorithms as I know of. I am buildi
 
 ## What's implemented
 
-✅ ❌
+✅ - implemented
+
+❌ - not yet implemented
 
 | Data structure or algorithm | Typescript | Rust |
 | --------------------------- | ---------- | ---- |
 | Linked list                 | ❌         | ❌   |
 | Doubly linked list          | ❌         | ❌   |
 | Ring buffer                 | ❌         | ❌   |
+| Array list                  | ❌         | ❌   |
+| Stack                       | ❌         | ❌   |
+| Quick sort                  | ❌         | ❌   |
+| Trie                        | ❌         | ❌   |
