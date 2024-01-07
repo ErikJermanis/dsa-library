@@ -10,12 +10,26 @@ A collection of as many data structures and algorithms as I know of. I am buildi
 
 ❌ - not yet implemented
 
-| Data structure or algorithm | Typescript | Rust |
-| --------------------------- | ---------- | ---- |
-| Linked list                 | ❌         | ❌   |
-| Doubly linked list          | ❌         | ❌   |
-| Ring buffer                 | ❌         | ❌   |
-| Array list                  | ❌         | ❌   |
-| Stack                       | ❌         | ❌   |
-| Quick sort                  | ❌         | ❌   |
-| Trie                        | ❌         | ❌   |
+| Data structure or algorithm | Typescript |
+| --------------------------- | ---------- |
+| Linear search               | ❌         |
+| Binary search               | ❌         |
+| Bubble sort                 | ❌         |
+| Insertion sort              | ❌         |
+| Selection sort              | ❌         |
+| Merge sort                  | ❌         |
+| Quick sort                  | ❌         |
+| Quick sort                  | ❌         |
+| Counting sort               | ❌         |
+| Radix sort                  | ❌         |
+| Heap sort                   | ❌         |
+| Linked list                 | ❌         |
+| Doubly linked list          | ❌         |
+| Circular linked list        | ❌         |
+| Ring buffer                 | ❌         |
+| Array list                  | ❌         |
+| Stack                       | ❌         |
+| Queue                       | ❌         |
+| Quick sort                  | ❌         |
+| Trie                        | ❌         |
+| Hash table                  | ❌         |
