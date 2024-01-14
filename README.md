@@ -34,3 +34,5 @@ A collection of as many data structures and algorithms as I know of. I am buildi
 | Trie                        | ❌                                    |
 | Hash table                  | ❌                                    |
 | Rope                        | ❌                                    |
+| Gap buffer                  | ❌                                    |
+| Piece table                 | ❌                                    |
