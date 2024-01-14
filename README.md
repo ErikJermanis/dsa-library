@@ -13,7 +13,7 @@ A collection of as many data structures and algorithms as I know of. I am buildi
 | Data structure or algorithm | Typescript                            |
 | --------------------------- | ------------------------------------- |
 | Linear search               | [✅](Typescript/code/LinearSearch.ts) |
-| Binary search               | ❌                                    |
+| Binary search               | [✅](Typescript/code/BinarySearch.ts) |
 | Bubble sort                 | ❌                                    |
 | Insertion sort              | ❌                                    |
 | Selection sort              | ❌                                    |
