@@ -33,3 +33,4 @@ A collection of as many data structures and algorithms as I know of. I am buildi
 | Quick sort                  | ❌                                    |
 | Trie                        | ❌                                    |
 | Hash table                  | ❌                                    |
+| Rope                        | ❌                                    |
