@@ -1,0 +1,33 @@
+import LinkedList from "../code/LinkedList";
+
+test("linked list", () => {
+  const list = new LinkedList<number>();
+  expect(list.length).toBe(0);
+  expect(list.get(0)).toBe(undefined);
+  expect(() => list.removeAt(0)).toThrow("Index out of bounds");
+  expect(() => list.insertAt(1, 5)).toThrow("Index out of bounds");
+  expect(() => list.set(0, 5)).toThrow("Index out of bounds");
+  expect(list.pop()).toBe(undefined);
+  expect(list.shift()).toBe(undefined);
+  expect(list.indexOf(0)).toBe(-1);
+  expect(list.isEmpty()).toBe(true);
+  expect(list.remove(4)).toBe(undefined);
+  expect(list.toArray()).toEqual([]);
+  list.append(1);
+  expect(list.length).toBe(1);
+  expect(list.get(0)).toBe(1);
+  expect(list.get(1)).toBe(undefined);
+  expect(list.isEmpty()).toBe(false);
+  expect(list.toArray()).toEqual([1]);
+  expect(list.remove(4)).toBe(undefined);
+  expect(list.remove(1)).toBe(1);
+  expect(list.length).toBe(0);
+  list.append(1);
+  list.prepend(2);
+  expect(list.length).toBe(2);
+  expect(list.get(0)).toBe(2);
+  expect(list.get(1)).toBe(1);
+  expect(list.shift()).toBe(2);
+  expect(list.length).toBe(1);
+  expect(list.pop()).toBe(1);
+});

@@ -22,7 +22,7 @@ A collection of as many data structures and algorithms as I know of. I am buildi
 | Counting sort               | ❌                                     |
 | Radix sort                  | ❌                                     |
 | Heap sort                   | ❌                                     |
-| Linked list                 | ❌                                     |
+| Linked list                 | [✅](Typescript/code/LinkedList.ts)    |
 | Doubly linked list          | ❌                                     |
 | Circular linked list        | ❌                                     |
 | Ring buffer                 | ❌                                     |
