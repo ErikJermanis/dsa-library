@@ -35,3 +35,4 @@ A collection of as many data structures and algorithms as I know of. I am buildi
 | Rope                        | ❌                                     |
 | Gap buffer                  | ❌                                     |
 | Piece table                 | ❌                                     |
+| Levenshtein distance        | ❌                                     |
