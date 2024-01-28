@@ -19,7 +19,7 @@ A collection of as many data structures and algorithms as I know of. I am buildi
 | Selection sort              | [✅](Typescript/code/SelectionSort.ts)    |
 | Merge sort                  | [✅](Typescript/code/MergeSort.ts)        |
 | Quick sort                  | [✅](Typescript/code/QuickSort.ts)        |
-| Counting sort               | ❌                                        |
+| Counting sort               | [✅](Typescript/code/CountingSort.ts)     |
 | Radix sort                  | ❌                                        |
 | Heap sort                   | ❌                                        |
 | Linked list                 | [✅](Typescript/code/LinkedList.ts)       |
