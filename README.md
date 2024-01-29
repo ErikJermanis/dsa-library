@@ -10,29 +10,28 @@ A collection of as many data structures and algorithms as I know of. I am buildi
 
 ❌ - not yet implemented
 
-| Data structure or algorithm | Typescript                                |
-| --------------------------- | ----------------------------------------- |
-| Linear search               | [✅](Typescript/code/LinearSearch.ts)     |
-| Binary search               | [✅](Typescript/code/BinarySearch.ts)     |
-| Bubble sort                 | [✅](Typescript/code/BubbleSort.ts)       |
-| Insertion sort              | [✅](Typescript/code/InsertionSort.ts)    |
-| Selection sort              | [✅](Typescript/code/SelectionSort.ts)    |
-| Merge sort                  | [✅](Typescript/code/MergeSort.ts)        |
-| Quick sort                  | [✅](Typescript/code/QuickSort.ts)        |
-| Counting sort               | [✅](Typescript/code/CountingSort.ts)     |
-| Radix sort                  | [✅](Typescript/code/RadixSort.ts)        |
-| Heap sort                   | ❌                                        |
-| Linked list                 | [✅](Typescript/code/LinkedList.ts)       |
-| Doubly linked list          | [✅](Typescript/code/DoublyLinkedList.ts) |
-| Circular linked list        | ❌                                        |
-| Ring buffer                 | ❌                                        |
-| Array list                  | ❌                                        |
-| Stack                       | ❌                                        |
-| Queue                       | ❌                                        |
-| Quick sort                  | ❌                                        |
-| Trie                        | ❌                                        |
-| Hash table                  | ❌                                        |
-| Rope                        | ❌                                        |
-| Gap buffer                  | ❌                                        |
-| Piece table                 | ❌                                        |
-| Levenshtein distance        | ❌                                        |
+| Data structure or algorithm | Typescript                                  |
+| --------------------------- | ------------------------------------------- |
+| Linear search               | [✅](Typescript/code/LinearSearch.ts)       |
+| Binary search               | [✅](Typescript/code/BinarySearch.ts)       |
+| Bubble sort                 | [✅](Typescript/code/BubbleSort.ts)         |
+| Insertion sort              | [✅](Typescript/code/InsertionSort.ts)      |
+| Selection sort              | [✅](Typescript/code/SelectionSort.ts)      |
+| Merge sort                  | [✅](Typescript/code/MergeSort.ts)          |
+| Quick sort                  | [✅](Typescript/code/QuickSort.ts)          |
+| Counting sort               | [✅](Typescript/code/CountingSort.ts)       |
+| Radix sort                  | [✅](Typescript/code/RadixSort.ts)          |
+| Heap sort                   | ❌                                          |
+| Linked list                 | [✅](Typescript/code/LinkedList.ts)         |
+| Doubly linked list          | [✅](Typescript/code/DoublyLinkedList.ts)   |
+| Circular linked list        | [✅](Typescript/code/CircularLinkedList.ts) |
+| Ring buffer                 | ❌                                          |
+| Array list                  | ❌                                          |
+| Stack                       | ❌                                          |
+| Queue                       | ❌                                          |
+| Trie                        | ❌                                          |
+| Hash table                  | ❌                                          |
+| Rope                        | ❌                                          |
+| Gap buffer                  | ❌                                          |
+| Piece table                 | ❌                                          |
+| Levenshtein distance        | ❌                                          |
