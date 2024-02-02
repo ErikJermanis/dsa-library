@@ -27,8 +27,8 @@ A collection of as many data structures and algorithms as I know of. I am buildi
 | Circular linked list        | [✅](Typescript/code/CircularLinkedList.ts) |
 | Ring buffer                 | [✅](Typescript/code/RingBuffer.ts)         |
 | Array list                  | [✅](Typescript/code/ArrayList.ts)          |
-| Stack                       | ❌                                          |
-| Queue                       | ❌                                          |
+| Stack                       | [✅](Typescript/code/Stack.ts)              |
+| Queue                       | [✅](Typescript/code/Queue.ts)              |
 | Trie                        | ❌                                          |
 | Hash table                  | ❌                                          |
 | Rope                        | ❌                                          |
