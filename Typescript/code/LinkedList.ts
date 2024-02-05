@@ -165,6 +165,22 @@ export default class LinkedList<T> {
     return out;
   }
 
+  reverse(): void {
+    if (this.length < 2) return;
+    this.tail = this.head;
+    let prev = undefined;
+    let curr = this.head;
+    let next = curr!.next;
+    while (next) {
+      curr!.next = prev;
+      prev = curr;
+      curr = next;
+      next = next?.next;
+    }
+    curr!.next = prev;
+    this.head = curr;
+  }
+
   private getAt(index: number): Node<T> | undefined {
     let curr = this.head;
     for (let i = 0; curr && i < index; i++) {

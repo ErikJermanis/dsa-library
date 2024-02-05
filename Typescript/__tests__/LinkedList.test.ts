@@ -30,4 +30,13 @@ test("linked list", () => {
   expect(list.shift()).toBe(2);
   expect(list.length).toBe(1);
   expect(list.pop()).toBe(1);
+  list.append(4);
+  list.append(8);
+  list.append(3);
+  list.append(7);
+  expect(list.toArray()).toEqual([4, 8, 3, 7]);
+  list.reverse();
+  expect(list.toArray()).toEqual([7, 3, 8, 4]);
+  expect(list.shift()).toBe(7);
+  expect(list.pop()).toBe(4);
 });
