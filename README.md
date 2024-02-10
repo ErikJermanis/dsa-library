@@ -1,14 +1,16 @@
 # DSA Library
 
-NOTE: This repository is a constant work in progress.
+This is a collection of majority widely used data structures and algorithms. Including every single data structure and algorithm would be impossible, so I will not include some of the less known ones. I will also not include ones that I deem unneccesary for any reason.
 
-A collection of as many data structures and algorithms as I know of. I am building this repository to sharpen my software engineering skills. My current goal is to compile a list of data structures and algorithms, and first implement them in **_Typescript_**, then **_Rust_** and possibly **_Go_**.
+I am building this collection to sharpen my software engineering skills. Currently, I am writing everything in **_Typescript_**. After that, I plan to rewrite everything in **_Rust_** since I want to learn the language anyway and gain a better understanding of lower-level concepts. I also might create a DSA course based on this repo sometime in the future, but that's just an idea for now.
 
 ## What's implemented
 
 ✅ - implemented
 
 ❌ - not yet implemented
+
+NOTE: clicking on a "✅" will take you to a respective code file.
 
 | Data structure or algorithm | Typescript                                  |
 | --------------------------- | ------------------------------------------- |
@@ -29,6 +31,7 @@ A collection of as many data structures and algorithms as I know of. I am buildi
 | Array list                  | [✅](Typescript/code/ArrayList.ts)          |
 | Stack                       | [✅](Typescript/code/Stack.ts)              |
 | Queue                       | [✅](Typescript/code/Queue.ts)              |
+| Binary search tree          | ❌                                          |
 | Trie                        | ❌                                          |
 | Hash table                  | ❌                                          |
 | Rope                        | ❌                                          |
