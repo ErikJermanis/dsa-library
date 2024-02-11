@@ -32,6 +32,7 @@ NOTE: clicking on a "✅" will take you to a respective code file.
 | Stack                       | [✅](Typescript/code/Stack.ts)              |
 | Queue                       | [✅](Typescript/code/Queue.ts)              |
 | Binary search tree          | [✅](Typescript/code/BinarySearchTree.ts)   |
+| Heap                        | ❌                                          |
 | Trie                        | ❌                                          |
 | Hash table                  | ❌                                          |
 | Rope                        | ❌                                          |
