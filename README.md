@@ -31,7 +31,7 @@ NOTE: clicking on a "✅" will take you to a respective code file.
 | Array list                  | [✅](Typescript/code/ArrayList.ts)          |
 | Stack                       | [✅](Typescript/code/Stack.ts)              |
 | Queue                       | [✅](Typescript/code/Queue.ts)              |
-| Binary search tree          | ❌                                          |
+| Binary search tree          | [✅](Typescript/code/BinarySearchTree.ts)   |
 | Trie                        | ❌                                          |
 | Hash table                  | ❌                                          |
 | Rope                        | ❌                                          |
